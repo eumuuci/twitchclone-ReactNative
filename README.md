@@ -2,25 +2,16 @@
 </h1>
 
 <div>
-<img src="src/assets/images/UI.png">
+<img src="src/assets/images/UI.png" >
 </div>
 
-<div class="box">
-<img src="src/assets/images/a.png">
-</div>
-<div class="box">
-<img src="src/assets/images/b.png">
-</div>
-<div class="box">
-<img src="src/assets/images/c.png">
-</div>
+<div flex-direction="row">
+<img src="src/assets/images/a.png" width="300">
 
-<style>
-div.box {
-	width: 150px;
-	display: inline-block;
-}
-</style>
+<img src="src/assets/images/b.png" width="300">
+
+<img src="src/assets/images/c.png" width="300">
+</div>
 
 ## **Sobre** <img src="https://emoji.gg/assets/emoji/9018-lumithonk.png" width="30">
 
