@@ -27,9 +27,9 @@ _Foi algo mais para praticar mesmo o meu front, mas agora vendo o resultado eu g
 
 
 ```bash
-$ git clone https://github.com/nikorasucodes/twitchclone
+$ git clone https://github.com/nikorasucodes/twitchclone-ReactNative
 
-$ cd twitchclone
+$ cd twitchclone-ReactNative
 
 $ yarn install
 
